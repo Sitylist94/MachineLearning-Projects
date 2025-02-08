@@ -65,12 +65,5 @@ Vous pouvez contribuer à ce module en :
 - Améliorant les scripts ou les notebooks.
 - Écrivant une documentation plus détaillée.
 
-Pour contribuer, fork le dépôt, faites vos modifications, et soumettez une pull request. 😊
+Pour contribuer, fork le dépôt, faites vos modifications, et soumettez une pull request.
 
----
-
-## 📬 Contact
-
-Pour toute question ou suggestion, ouvrez une issue ou contactez-moi à **[votre-email@example.com](mailto:votre-email@example.com)**.
-
-Bon apprentissage et bon codage ! 🎉
